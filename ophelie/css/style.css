@@ -306,7 +306,7 @@ SOMMAIRE
 	}
 
 	/**CONTACT FORM**/
-	.flex{
+	.card-contact__layout{
 		display: flex;
 		flex-direction: row;
 		justify-content: center;
